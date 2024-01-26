@@ -1,4 +1,4 @@
-# Image-Caption-Generator-CNN
+# Image Caption Generator CNN
 
 <img width="568" alt="Screenshot 2024-01-27 at 01 06 34" src="https://github.com/PraveenLiyanage/Image-Caption-Generator-CNN/assets/111709030/db0ce006-e9aa-4a65-85d2-6765dd7b5958">
 

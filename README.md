@@ -9,7 +9,10 @@ This project implements an Image Caption Generator using a combination of Convol
 ## Dependencies
 
 - Python 3.x
-- TensorFlow (or PyTorch, depending on the implementation)
+- TensorFlow
+- VisionEncoderDecoderModel
+- ViTFeatureExtractor
+- AutoTokenizer
 
 ## Installation
 
